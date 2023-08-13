@@ -1,0 +1,72 @@
+
+*{
+margin: 0px;
+padding: 0px;
+height: 100%;
+
+}
+.Parallaxone{
+    width: 100%;
+    height: 600px;
+    background-image: url(img1.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.Parallaxone h2{
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 500px;
+    height: 31px;
+    padding: 15px;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+
+}
+.Parallaxtwo{
+    width: 100%;
+    height: 600px;
+    background-image: url(win.webp);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.Parallaxtwo h2{
+    position: relative;
+    left: 600px;
+    top: 300px;
+    width: 150px;
+    height: 31px;
+    padding: 10px;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+
+}
+.Parallaxthree{
+    width: 100%;
+    height: 600px;
+    background-image: url(im3.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.Parallaxthree h2{
+    position: relative;
+    left: 600px;
+    top: 300px;
+    width: 150px;
+    height: 31px;
+    padding: 10px;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+
+}
+.para{
+    padding: 50px;
+    text-align: center;
+    height: 150px;
+    background-color: black;
+    color: aliceblue;
+    font-size: 20px;
+}
